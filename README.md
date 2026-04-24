@@ -1,17 +1,17 @@
-# 📊 Sales Data Analysis using Python
+# Sales Data Analysis using Python
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing sales data to identify trends, product performance, and regional distribution using Python.
 
-## 🎯 Objective
+## Objective
 The goal is to extract meaningful insights from sales data to support business decision-making.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
 
-## 📂 Dataset Details
+## Dataset Details
 The dataset includes:
 - Date of sale
 - Product
@@ -19,22 +19,21 @@ The dataset includes:
 - Quantity
 - Region
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 - Data cleaning and preprocessing
 - Monthly sales trend analysis
 - Product-wise sales comparison
 - Regional performance analysis
 - Correlation between sales and quantity
 
-## 📈 Key Insights
+## Key Insights
 - Laptop generates the highest revenue
 - Phone shows consistent sales trends
 - South and West regions perform strongly
 - Sales patterns vary across regions and products
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates how data analysis can uncover valuable business insights and support data-driven decisions.
 
-## 📎 Project Link
+## Project Link
 [View Notebook](./sales_data_analysis.ipynb)
-
